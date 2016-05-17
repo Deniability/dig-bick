@@ -1,0 +1,21 @@
+/*
+Mostly borrowed css and a bit made by Deniability
+
+Imports from Netux(iloveyou):
+- tons of shit
+- small video with header buttons moved
+- NB3 vote icons,
+- recognizable room BOTs in chat(yeah like ima do that)
+- a pack of animations
+- an improvement on the lobby, the browser and the room edit room
+- netux's fixes (including mobile view)
+- Heebee's Rainbow progress bar.
+- Ads on the header instead that on top of the video.
+*/
+@import url("https://hebgbs.github.io/rainbowNB3.css"); /* Rainbow video progress bar */
+
+#chat .chat-main .user-573b4afa839e4d2300ae1d3a .username
+{
+    color: ##6B58A8 !important;
+}
+
